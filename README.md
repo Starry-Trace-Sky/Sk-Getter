@@ -5,11 +5,17 @@
 
 #### 软件实现原理
 本软件使用的第三方库如下
+
 cloudmusic
+
 pyquery   1.4.3
+
 requests  2.28.1
+
 PyQt      5.15.4
+
 使用pyqt desinger对窗口进行设计
+
 另外感谢国外一大佬提供的style.qss样式美化
 
 [style.qss样式来源链接](https://www.programmerall.com/article/26091298015/)
