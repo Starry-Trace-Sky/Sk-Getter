@@ -16,9 +16,7 @@ PyQt      5.15.4
 
 使用pyqt desinger对窗口进行设计
 
-另外感谢国外一大佬提供的style.qss样式美化
-
-[style.qss样式来源链接](https://www.programmerall.com/article/26091298015/)
+另外网上其他用户提供的[style.qss](https://www.programmerall.com/article/26091298015/)样式美化
 
 
 #### 安装教程
