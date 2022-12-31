@@ -28,6 +28,8 @@
 
 ![网易云音乐](cloudmusic.png)
 
+![网易云音乐勾画](cloudmusic_high.png)
+
 
 #### 软件实现原理
 采用正则表达式匹配链接,requests构造请求头并下载文件
