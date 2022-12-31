@@ -19,9 +19,10 @@
 3.  api.txt会不定期更新, 若发现软件无法下载视频或音乐,请点击菜单栏的"设置->更新接口"(2022/12/31 周六 作者的话,api.txt没有实质作用,软件GUI没时间删除"更新接口"菜单了,不好意思)
 4. 对于下载视频功能, Bilibili除大会员视频外大部分都能下载
 5. 软件关闭后出现的"main.exe已停止工作"是正常情况,请忽略
-![停止工作截图](https://gitee.com/skyler-sun/sk-getter/blob/master/2022-12-31_213500.png)
-![软件截图1](https://gitee.com/skyler-sun/sk-getter/blob/master/2022-12-31_213256.png)
-![软件截图2](https://gitee.com/skyler-sun/sk-getter/blob/master/2022-12-31_213320.png)
+
+![停止工作截图](2022-12-31_213500.png)
+![软件截图1](2022-12-31_213256.png)
+![软件截图2](2022-12-31_213320.png)
 
 #### 软件实现原理
 采用正则表达式匹配链接,requests构造请求头并下载文件
