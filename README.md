@@ -47,40 +47,56 @@
 
 打开浏览器
 
+
 ![打开浏览器](t1.png)
+
 
 打开设置
 
+
 ![打开设置](t2.png)
+
 
 点击**关于Microsoft Edge**并记住**浏览器版本**(tips:可以写下来或记在电脑上)
 
+
 ![点击关于Microsoft Edge](t3.png)
+
 
 到这里你已经成功了一半了@^_^@接下来是下载webdriver[点这里打开下载页面](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/ "是")
 例如我的浏览器版本是**109.0.1518.55**系统为**64位**,就点这个(一般系统都是64位)
 
+
 ![下载webdriver](t4.png)
+
 
 下载完成后是这个样子滴
 
+
 ![下载完成](t5.png)
+
 
 因为是zip文件,就把他解压出来,然后是这样
 
+
 ![解压webdriver](t6.png)
+
 
 Driver_Notes文件夹是文档说明,可以直接删掉
 重要的是**msedgedriver.exe**文件,我们鼠标右键复制它
 然后根据下面这张**软件目录结构思维导图**找到**browserDriver**文件夹
 
+
 ![软件目录结构](catalogueStructure.png)
+
 
 粘贴到里面就可以了
 注意下载下来的文件**不要**改成上图的webdriver.exe,保留原文件名就好
 成功后是这个样子
 
+
 ![复制粘贴webdriver](t7.png)
+
 
 #### 到这里就算安装配置完成了,祝贺祝贺!@^_^@!
 
