@@ -77,6 +77,7 @@ Driver_Notes文件夹是文档说明,可以直接删掉
 ![软件目录结构](catalogueStructure.png)
 
 粘贴到里面就可以了
+注意下载下来的文件**不要**改成上图的webdriver.exe,保留原文件名就好
 成功后是这个样子
 
 ![复制粘贴webdriver](t7.png)
