@@ -7,7 +7,7 @@
 
 ## 安装教程
 
-1.  [点击我下载最新版](https://gitee.com/skyler-sun/sk-getter/releases/download/v0.0.3/SkGetter_v003.7z)
+1.  [点击我下载最新版](https://gitee.com/skyler-sun/sk-getter/releases/download/v0.1.0/Sk%20Getter(v0.1.0).7z)
 2. [所有版本下载（蓝奏云链接）](https://skyler.lanzouo.com/b03pox9sd)提取密码:57m7
 3. 下载完成并解压后, 双击main.exe即可打开
 4. **切记第一次运行先设置保存路径!!!**
