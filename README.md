@@ -39,8 +39,8 @@
 ------------
 
 
-### 腾讯视频下载功能
-##### 第一步:下载配置webdriver
+### 腾讯视频下载及bilibili高清画质下载功能
+##### 下载配置webdriver
 1. **确定浏览器**
 **Microsoft Edge**, **Firefox**, **Chrome**之中的任意一个(若没有,请自行安装), 推荐Microsoft Edge. ~~其他浏览器没测试过>_<~~
 2. **确定浏览器版本**, 下面给出**Microsoft Edge**的确定方法 (其他浏览器类似)
