@@ -1,5 +1,7 @@
 # Sk Getter
 
+[![](https://img.shields.io/badge/latest_version-v0.2.1-brightgreen.svg)](https://gitee.com/skyler-sun/sk-getter/releases/)
+
 ## 软件介绍
 功能: 下载部分平台的视频,音乐(没错, 就是这么简洁@^_^@)
 至于软件名, Sk取自作者英文名Skyler, Getter应该都知道吧
@@ -41,7 +43,12 @@
 
 
 ### 腾讯视频下载及bilibili高清画质下载功能
-##### 下载配置webdriver
+##### 自动配置webdriver(目前仅限edge浏览器)
+1. 打开软件
+2. 依次点击"设置"=>"全局设置"
+3. 点击“自动配置webdriver”
+
+##### 手动配置webdriver
 1. **确定浏览器**
 **Microsoft Edge**, **Firefox**, **Chrome**之中的任意一个(若没有,请自行安装), 推荐Microsoft Edge. ~~其他浏览器没测试过>_<~~
 2. **确定浏览器版本**, 下面给出**Microsoft Edge**的确定方法 (其他浏览器类似)
