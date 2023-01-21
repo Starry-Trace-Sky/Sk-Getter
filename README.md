@@ -22,6 +22,7 @@
 4. 下载安装使用本软件就代表用户仔细阅读并同意[软件协议MIT License](https://gitee.com/skyler-sun/sk-getter/blob/master/LICENSE)
 5. 使用腾讯视频下载功能时因流量较大，download.exe内存占用为200-450M,网络占用大约为9M/s(代理截留和视频下载加在一起)
 6. 下载过程中出现的黑色窗口是webdriver运行界面，请勿关闭
+7. 芒果tv因链接较多，为节约计算机资源，下载时间可能较长，请合理分配时间
 
 ![停止工作截图](2022-12-31_213500.png)
 
@@ -124,7 +125,9 @@ cloudmusic 0.1.0
 pyquery   1.4.3
 requests  2.28.1
 PyQt      5.15.4
-使用pyqt desinger对窗口进行设计
+selenium
+seleniumwire
+使用pyqt desinger软件对窗体进行设计
 
 [style.qss样式来源](https://www.programmerall.com/article/26091298015/)
 
