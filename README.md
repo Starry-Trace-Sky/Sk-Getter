@@ -1,8 +1,10 @@
+
 # Sk Getter
 
 [![](https://img.shields.io/badge/Latest_Version-v1.0.0-brightgreen.svg)](https://gitee.com/skyler-sun/sk-getter/releases/tag/v1.0.0)
 [![](https://img.shields.io/badge/All_Releases-Click_Here-blue.svg)](https://gitee.com/skyler-sun/sk-getter/releases)
 [![](https://img.shields.io/badge/Stars-1-yellow.svg)](#)
+![](https://img.shields.io/badge/license-MIT-red.svg)
 
 [![](https://img.shields.io/badge/Start_date-2022/10/23_13:46-green.svg)](#)
 
@@ -11,9 +13,11 @@
 至于软件名, Sk取自作者英文名Skyler, Getter应该都知道吧
 因为想更注重实用性, 界面就写得很简洁
 
+[Gitee仓库链接](https://gitee.com/skyler-sun/sk-getter)
+
 ## 安装教程
 
-1.  **→**[点击我下载最新版](https://gitee.com/skyler-sun/sk-getter/releases/download/v1.0.0/Sk%20Getter(v1.0.0).7z)
+1. [点我下载最新版](https://github.com/Skyler-std/Sk-Getter/releases/download/v1.0.0/Sk.Getter.v1.0.0.7z)
 2. [所有版本下载（蓝奏云链接）](https://skyler.lanzouo.com/b03pox9sd)提取密码:57m7
 3. 下载完成并解压后, 双击main.exe或Sk Getter(vX.X.X).exe即可打开
 4. **切记第一次运行先设置保存路径!!!**
