@@ -13,7 +13,8 @@
 至于软件名, Sk取自作者英文名Skyler, Getter应该都知道吧
 因为想更注重实用性, 界面就写得很简洁
 
-[Gitee仓库链接](https://gitee.com/skyler-sun/sk-getter)
+[Gitee仓库链接](https://gitee.com/skyler-sun/Sk-Getter/)
+[Github仓库链接](https://github.com/Skyler-std/Sk-Getter/)
 
 ## 安装教程
 
