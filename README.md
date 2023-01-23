@@ -19,7 +19,7 @@
 ## 使用说明
 
 1. 软件关闭后出现的"main.exe已停止工作"是正常情况,请忽略
-2. 下载过程中出现的黑色窗口是webdriver运行界面，请勿关闭
+2. ~~下载过程中出现的黑色窗口是webdriver运行界面，请勿关闭~~（v1.0.0已不予以显示）
 3. 对于下载视频功能, Bilibili除大会员视频外大部分都能下载
 4. 下载安装使用本软件就代表用户仔细阅读并同意[软件协议MIT License](https://gitee.com/skyler-sun/sk-getter/blob/master/LICENSE)
 5. 使用腾讯视频下载功能时因流量较大，download.exe内存占用为200-450M,网络占用大约为9M/s(代理截留和视频下载加在一起)
