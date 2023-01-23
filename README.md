@@ -100,6 +100,7 @@ Driver_Notes文件夹是文档说明,可以直接删掉
 ![软件目录结构](catalogueStructure.png)
 
 
+(v1.0.0新增:ffmpeg目录移动至d文件夹下)
 粘贴到里面就可以了
 注意下载下来的文件**不要**改成上图的webdriver.exe,保留原文件名就好
 成功后是这个样子
