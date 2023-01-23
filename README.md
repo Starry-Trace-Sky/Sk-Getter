@@ -130,16 +130,24 @@ Driver_Notes文件夹是文档说明,可以直接删掉
 https://jx.jsonplayer.com/player/?url=xxx
 
 本软件使用的第三方库如下
+
 cloudmusic 0.1.0
+
 pyquery   1.4.3
+
 requests  2.28.1
+
 PyQt      5.15.4
+
 selenium
+
 seleniumwire
+
 使用pyqt desinger软件对窗体进行设计
 
 [style.qss样式来源](https://www.programmerall.com/article/26091298015/)
 
 ## 联系作者
 邮箱:3385213313@qq.com
+
 注：因软件问题联系作者时请说明具体情况和信息，如果有截图和录屏就更好
