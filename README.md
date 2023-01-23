@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/All_Releases-Click_Here-blue.svg)](https://gitee.com/skyler-sun/sk-getter/releases)
 [![](https://img.shields.io/badge/Stars-1-yellow.svg)](#)
 
-[![](https://img.shields.io/badge/Start date-2022/10/23_13:46-green.svg)](#)
+[![](https://img.shields.io/badge/Start_date-2022/10/23_13:46-green.svg)](#)
 
 ## 软件介绍
 功能: 下载部分平台的视频,音乐(没错, 就是这么简洁@^_^@)
