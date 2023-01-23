@@ -3,8 +3,8 @@
 
 [![](https://img.shields.io/badge/Latest_Version-v1.0.0-brightgreen.svg)](https://github.com/Skyler-std/Sk-Getter/releases/tag/v1.0.0)
 [![](https://img.shields.io/badge/All_Releases-Click_Here-blue.svg)](https://github.com/Skyler-std/Sk-Getter/releases)
-[![](https://img.shields.io/badge/Stars-1-yellow.svg)(#)
-[![](https://img.shields.io/badge/license-MIT-red.svg)(https://github.com/Skyler-std/Sk-Getter/blob/master/LICENSE)
+[![](https://img.shields.io/badge/Stars-1-yellow.svg)](#)
+[![](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/Skyler-std/Sk-Getter/blob/master/LICENSE)
 
 [![](https://img.shields.io/badge/Start_date-2022/10/23_13:46-green.svg)](#)
 
