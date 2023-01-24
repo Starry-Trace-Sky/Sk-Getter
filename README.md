@@ -151,7 +151,7 @@ seleniumwire
 
 [style.qss样式来源](https://www.programmerall.com/article/26091298015/)
 
-## 联系作者
+## 📧联系作者
 邮箱:3385213313@qq.com
 
 注：因软件问题联系作者时请说明具体情况和信息，如果有截图和录屏就更好
