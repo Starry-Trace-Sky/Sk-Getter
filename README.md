@@ -1,9 +1,9 @@
 
 # Sk Getter
 
-[![](https://img.shields.io/badge/Latest_Version-v1.0.0-brightgreen.svg)](https://github.com/Skyler-std/Sk-Getter/releases/tag/v1.0.0)
+[![](https://img.shields.io/badge/Latest_Version-v1.1.0-brightgreen.svg)](https://github.com/Skyler-std/Sk-Getter/releases/tag/v1.1.0)
 [![](https://img.shields.io/badge/All_Releases-Click_Here-blue.svg)](https://github.com/Skyler-std/Sk-Getter/releases)
-[![](https://img.shields.io/badge/Stars-1-yellow.svg)](#)
+[![](https://img.shields.io/badge/Stars-unknown-yellow.svg)](#)
 [![](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/Skyler-std/Sk-Getter/blob/master/LICENSE)
 
 [![](https://img.shields.io/badge/Start_date-2022/10/23_13:46-green.svg)](#)
@@ -18,8 +18,8 @@
 
 ## 安装教程
 
-1. [点我下载最新版](https://gitee.com/skyler-sun/Sk-Getter/releases/download/v1.0.0/Sk%20Getter(v1.0.0).7z)
-2. [所有版本下载（蓝奏云链接）](https://skyler.lanzouo.com/b03pox9sd)提取密码:57m7
+1. [点我下载最新版](https://gitee.com/skyler-sun/Sk-Getter/releases/download/v1.1.0/Sk%20Getter(v1.1.0).7z)
+2. [所有版本下载（蓝奏云链接）](https://skyler.lanzouo.com/b03pox9sd)提取密码:57m7, 若链接失效, 请联系作者
 3. 下载完成并解压后, 双击main.exe或Sk Getter(vX.X.X).exe即可打开
 4. **切记第一次运行先设置保存路径!!!**
 
@@ -32,6 +32,7 @@
 5. 使用腾讯视频下载功能时因流量较大，download.exe内存占用为200-450M,网络占用大约为9M/s(代理截留和视频下载加在一起)（2023/01/23 作者的话： v1.0.0版本好像有所改善）
 6. 芒果tv因链接较多，为节约计算机资源，使用多线程异步技术，下载时间可能较长，请合理分配时间，**芒果tv视频文件是以下载的时间命名的，例如：20230123.mp4，下载完成后请删除.ts文件，以免造成空间浪费**
 7. 软件可能因为运行了外部应用程序吧，一些杀毒软件可能会误报，请将软件添加至信任名单（注意保持软件完整性）
+8. 下载较大的电影时,如果下载过程中软件自动退出,请重新尝试
 
 ![停止工作截图](2022-12-31_21350.png)
 
