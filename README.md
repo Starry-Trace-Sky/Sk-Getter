@@ -1,7 +1,7 @@
 
 # Sk Getter
 
-[![](https://img.shields.io/badge/Latest_Version-v1.1.1-brightgreen.svg)](https://github.com/Skyler-std/Sk-Getter/releases/tag/v1.1.1)
+[![](https://img.shields.io/badge/Latest_Version-v1.1.2-brightgreen.svg)](https://github.com/Skyler-std/Sk-Getter/releases/tag/v1.1.2)
 [![](https://img.shields.io/badge/All_Releases-Click_Here-blue.svg)](https://github.com/Skyler-std/Sk-Getter/releases)
 [![](https://img.shields.io/badge/Stars-unknown-yellow.svg)](#)
 [![](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/Skyler-std/Sk-Getter/blob/master/LICENSE)
@@ -32,7 +32,7 @@
 2. ~~下载过程中出现的黑色窗口是webdriver运行界面，请勿关闭~~（v1.0.0已不予以显示）
 3. 对于下载视频功能, Bilibili除大会员视频外大部分都能下载
 4. 使用腾讯视频下载功能时因流量较大，download.exe内存占用为200-450M,网络占用大约为9M/s(代理截留和视频下载加在一起)（2023/01/23 作者的话： v1.0.0版本好像有所改善）
-5. 芒果tv因链接较多，为节约计算机资源，使用多线程异步技术，下载时间可能较长，请合理分配时间，**芒果tv视频文件是以下载的时间命名的，例如：20230123.mp4，下载完成后请删除.ts文件，以免造成空间浪费**
+5. 芒果tv因链接较多，为节约计算机资源，使用多线程异步技术，下载时间可能较长，请合理分配时间，**芒果tv视频文件是以下载的时间命名的，例如：20230123.mp4**
 6. 软件可能因为运行了外部应用程序吧，一些杀毒软件可能会误报，请将软件添加至信任名单（注意保持软件完整性）
 7. 下载较大的电影时,如果下载过程中软件自动退出,请重新尝试
 
@@ -122,7 +122,6 @@ Driver_Notes文件夹是文档说明,可以直接删掉
 关于这个功能你需要了解的事情
 - 暂不支持批量下载, 请一个一个来
 - 有的视频可能等很久都没反应, 请关闭软件后重试几次
-- 开始下载后出现的黑色窗口显示的是webdriver启动的浏览器的日志,最小化该窗口即可[**切记不要关闭该窗口,否则会导致下载失败**]
 
 ------------
 
