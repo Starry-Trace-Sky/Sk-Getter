@@ -1,7 +1,7 @@
 
 # Sk Getter
 
-[![](https://img.shields.io/badge/Latest_Version-v1.1.2-brightgreen.svg)](https://github.com/Skyler-std/Sk-Getter/releases/tag/v1.1.2)
+[![](https://img.shields.io/badge/Latest_Version-v1.1.3-brightgreen.svg)](https://github.com/Skyler-std/Sk-Getter/releases/tag/v1.1.3)
 [![](https://img.shields.io/badge/All_Releases-Click_Here-blue.svg)](https://github.com/Skyler-std/Sk-Getter/releases)
 [![](https://img.shields.io/badge/Stars-unknown-yellow.svg)](#)
 [![](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/Skyler-std/Sk-Getter/blob/master/LICENSE)
@@ -21,7 +21,7 @@
 
 ## 🌱安装教程
 
-1. 👉[点我下载最新版](https://gitee.com/skyler-sun/Sk-Getter/releases/download/v1.1.2/Sk%20Getter(v1.1.2).7z)
+1. 👉[点我下载最新版](https://gitee.com/skyler-sun/Sk-Getter/releases/download/v1.1.3/Sk%20Getter(v1.1.3).7z)
 2. [所有版本下载（蓝奏云）](https://skyler.lanzouo.com/b03pox9sd)提取密码:57m7, 若链接失效, 请联系作者
 3. 下载完成并解压后, 双击main.exe或Sk Getter(vX.X.X).exe即可打开
 4. **切记第一次运行先设置保存路径!!!**
